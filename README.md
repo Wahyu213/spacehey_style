@@ -1,8 +1,6 @@
 # spacehey_style
 some minor changes for spacehey.com
 
-![](https://i.ibb.co/Bts0Z2b/spacehey-screenshot.png)
-
 
 ## Installation
 - Copy content from style.css and paste it anywhere in https://spacehey.com/ inside the [style-tag](https://www.w3schools.com/tags/tag_style.asp)
