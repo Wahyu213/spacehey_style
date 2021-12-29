@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+
+body {
+    font-family: 'Comfortaa', cursive;
+    background: url("https://data.whicdn.com/images/197122776/original.gif") no-repeat fixed;
+    background-size: cover;
+}
+
+/* rounded corners */
+
+main {
+    border-radius: 0px 0px 30px 30px;
+}
+
+div.top {
+    border-radius: 30px 30px 0px 0px;
+    background-color: #A569BD;
+}
+
+div.heading {
+    border-radius: 30px 30px 30px 30px;
+}
+
+footer {
+    border-radius: 30px 30px 30px 30px;
+    background: #FFFFFF;
+}
+
+td {
+    border-radius: 10px 10px 10px 10px;
+}
+
+/* remove border */
+
+.profile .contact,
+.profile .url-info,
+.profile .table-section,
+.home-actions {
+    border: none;
+}
+
+/* colors */
+
+main {
+    color: #1A5276;
+}
+
+h4 {
+    color: #1A5276 !important;
+}
+
+.blurbs>.inner>.section>h4 {
+    color: #1A5276;
+}
+
+span.count {
+    color: #1A5276;
+}
+
+span [itemprop="name"] {
+    color: white;
+}
+
+nav .links {
+    background-color: #BB8FCE;
+}
+
+a {
+    color: #512E5F;
+}
+
+.profile .blurbs .heading,
+.profile .friends .heading {
+    background: #D2B4DE;
+}
+
+.profile .contact .heading,
+.profile .table-section .heading,
+.home-actions .heading {
+    background: #D2B4DE;
+}
+
+.details-table td:first-child {
+    background: #D7BDE2;
+}
+
+.details-table td {
+    background: #F4ECF7;
+}
